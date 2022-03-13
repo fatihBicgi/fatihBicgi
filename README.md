@@ -1,4 +1,7 @@
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatih-biçgi/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/fatih_bcg/)
+
 ## Unity3d Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=elemental-calibration-game&theme=tokyonight))](https://github.com/fatihBicgi/elemental-calibration-game.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=2d-zombie-shooter&theme=tokyonight))](https://github.com/fatihBicgi/2d-zombie-shooter.git)

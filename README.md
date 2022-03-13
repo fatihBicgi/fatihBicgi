@@ -7,12 +7,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=pandemic-annihilation-game&theme=tokyonight))](https://github.com/fatihBicgi/pandemic-annihilation-game.git)
 
 ## Flutter Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=Bildir&theme=tokyonight))](https://github.com/fatihBicgi/Bildir.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=Bildir&theme=merko))](https://github.com/fatihBicgi/Bildir.git)
 
 ## Languages
-![fatihBicgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihBicgi&show_icons=true&theme=tokyonight)
+![fatihBicgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihBicgi&show_icons=true&theme=onedark)
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihBicgi&layout=compact&theme=tokyonight)](https://github.com/fatihBicgi/fatihBicgi.git)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihBicgi&layout=compact&theme=dracula)](https://github.com/fatihBicgi/fatihBicgi.git)
 
 

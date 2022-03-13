@@ -9,10 +9,10 @@
 ## Flutter Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=Bildir&theme=merko))](https://github.com/fatihBicgi/Bildir.git)
 
-## Languages
+## Stats
 ![fatihBicgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihBicgi&show_icons=true&theme=onedark)
 
-## Stats
+## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihBicgi&layout=compact&theme=dracula)](https://github.com/fatihBicgi/fatihBicgi.git)
 
 

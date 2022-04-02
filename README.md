@@ -10,6 +10,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=living-city-animation&theme=tokyonight))](https://github.com/fatihBicgi/living-city-animation.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=2d-game-presentation&theme=tokyonight))](https://github.com/fatihBicgi/2d-game-presentation.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=pandemic-annihilation-game&theme=tokyonight))](https://github.com/fatihBicgi/pandemic-annihilation-game.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=diminish-or-die&theme=tokyonight))](https://github.com/fatihBicgi/diminish-or-die.git)
 
 ## Flutter Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=Bildir&theme=merko))](https://github.com/fatihBicgi/Bildir.git)

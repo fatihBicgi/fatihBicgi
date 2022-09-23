@@ -14,7 +14,7 @@
 
 ## Flutter Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=Bildir&theme=merko))](https://github.com/fatihBicgi/Bildir.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=Flutter Learn Projects&theme=merko))](https://github.com/fatihBicgi/flutter_learn_projects.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=Flutter-Learn-Projects&theme=merko))](https://github.com/fatihBicgi/flutter_learn_projects.git)
 
 ## Stats
 ![fatihBicgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihBicgi&show_icons=true&theme=onedark)

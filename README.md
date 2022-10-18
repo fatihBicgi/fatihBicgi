@@ -11,8 +11,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=Bildir&theme=merko))](https://github.com/fatihBicgi/Bildir.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=flutter_learn_projects&theme=merko))](https://github.com/fatihBicgi/flutter_learn_projects.git)
 
+## Django-Web Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=/magazine_website&theme=merko))](https://github.com/fatihBicgi/magazine_website.git)
 
-## Old Unity3d(2019-2021)
+
+## Old Unity3d Projects(2019-2021)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=elemental-calibration-game&theme=tokyonight))](https://github.com/fatihBicgi/elemental-calibration-game.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=2d-zombie-shooter&theme=tokyonight))](https://github.com/fatihBicgi/2d-zombie-shooter.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=living-city-animation&theme=tokyonight))](https://github.com/fatihBicgi/living-city-animation.git)

@@ -12,7 +12,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=flutter_learn_projects&theme=merko))](https://github.com/fatihBicgi/flutter_learn_projects.git)
 
 ## Django-Web Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=/magazine_website&theme=merko))](https://github.com/fatihBicgi/magazine_website.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=magazine_website&theme=merko))](https://github.com/fatihBicgi/magazine_website.git)
 
 
 ## Old Unity3d Projects(2019-2021)

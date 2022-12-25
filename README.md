@@ -17,6 +17,10 @@
 
 ## Django-Web Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=magazine_website&theme=merko)](https://github.com/fatihBicgi/magazine_website.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=static-website-template&theme=merko)](https://github.com/fatihBicgi/static-website-template.git)
+
+
+
 
 
 ## Old Unity3d Projects(2019-2021)

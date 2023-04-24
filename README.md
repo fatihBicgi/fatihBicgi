@@ -9,6 +9,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=Capture-Castles&theme=tokyonight)](https://github.com/fatihBicgi/Capture-Castles.git)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=VRDevelopmentFundamentals&theme=tokyonight)]([https://github.com/fatihBicgi/Capture-Castles.git](https://github.com/fatihBicgi/VRDevelopmentFundamentals.git))
+
 
 
 ## Flutter Repositories

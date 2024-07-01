@@ -5,8 +5,10 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/fatih_bcg/)
 
 ## Unity3d Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=case-study-drag-sort&theme=tokyonight)](https://github.com/fatihBicgi/case-study-drag-sort.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=Capture-Castles&theme=tokyonight)](https://github.com/fatihBicgi/Capture-Castles.git)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=case-study-drag-sort&theme=tokyonight)](https://github.com/fatihBicgi/case-study-drag-sort.git)
+
 
 
 

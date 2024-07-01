@@ -6,17 +6,14 @@
 
 ## Unity3d Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=case-study-drag-sort&theme=tokyonight)](https://github.com/fatihBicgi/case-study-drag-sort.git)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=Capture-Castles&theme=tokyonight)](https://github.com/fatihBicgi/Capture-Castles.git)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=VRDevelopmentFundamentals&theme=tokyonight)](https://github.com/fatihBicgi/VRDevelopmentFundamentals.git)
-
 
 
 
 ## Flutter Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=Bildir&theme=merko)](https://github.com/fatihBicgi/Bildir.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=flutter_learn_projects&theme=merko)](https://github.com/fatihBicgi/flutter_learn_projects.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=Obilet-Clone&theme=merko)](https://github.com/fatihBicgi/seyahat-ruzgari.git)
 
 ## Django-Web Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=magazine_website&theme=merko)](https://github.com/fatihBicgi/magazine_website.git)

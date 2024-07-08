@@ -1,6 +1,6 @@
 ![Fatih's GitHub Banner](fatihb.png)
 ![Alt text](wings.gif)
-
+## Contact
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatihbicgi/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/fatihbicgi/)
 

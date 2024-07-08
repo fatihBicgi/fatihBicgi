@@ -1,8 +1,8 @@
 ![Fatih's GitHub Banner](fatihb.png)
 ![Alt text](wings.gif)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatih-biçgi/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/fatihbiçgi/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatih-bicgi/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/fatihbicgi/)
 
 ## Unity3d Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=Capture-Castles&theme=tokyonight)](https://github.com/fatihBicgi/Capture-Castles.git)

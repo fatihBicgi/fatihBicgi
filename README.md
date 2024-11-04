@@ -3,6 +3,13 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatihbicgi/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/fatihbicgi/)
 
+## Android Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=Bildir&theme=merko)](https://github.com/fatihBicgi/Bildir.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=seyahat-ruzgari&theme=merko)](https://github.com/fatihBicgi/seyahat-ruzgari.git)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=E-Commerce-App&theme=merko)](https://github.com/fatihBicgi/E-Commerce-App.git)
+
+
 ## Unity3d Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=Capture-Castles&theme=tokyonight)](https://github.com/fatihBicgi/Capture-Castles.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=Cell-Organelles-Educator&theme=tokyonight)](https://github.com/fatihBicgi/Cell-Organelles-Educator.git)
@@ -11,11 +18,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=case-study-drag-sort&theme=tokyonight)](https://github.com/fatihBicgi/case-study-drag-sort.git)
 
-## Android Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=Bildir&theme=merko)](https://github.com/fatihBicgi/Bildir.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=seyahat-ruzgari&theme=merko)](https://github.com/fatihBicgi/seyahat-ruzgari.git)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=E-Commerce-App&theme=merko)](https://github.com/fatihBicgi/E-Commerce-App.git)
 
 ## Django-Web Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=magazine_website&theme=merko)](https://github.com/fatihBicgi/magazine_website.git)

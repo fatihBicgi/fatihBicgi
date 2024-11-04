@@ -11,23 +11,14 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=case-study-drag-sort&theme=tokyonight)](https://github.com/fatihBicgi/case-study-drag-sort.git)
 
-
-
-
-
-
-
-
-## Flutter Repositories
+## Android Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=Bildir&theme=merko)](https://github.com/fatihBicgi/Bildir.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=flutter_learn_projects&theme=merko)](https://github.com/fatihBicgi/flutter_learn_projects.git)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=seyahat-ruzgari&theme=merko)](https://github.com/fatihBicgi/seyahat-ruzgari.git)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=E-Commerce-App&theme=merko)](https://github.com/fatihBicgi/E-Commerce-App.git)
 
 ## Django-Web Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=magazine_website&theme=merko)](https://github.com/fatihBicgi/magazine_website.git)
-
-
 
 
 ## Old Unity3d Projects(2018-2021)

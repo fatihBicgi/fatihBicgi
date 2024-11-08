@@ -2,6 +2,7 @@
 ## Contact
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatihbicgi/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/fatihbicgi/)
+[![Itch.io](https://img.shields.io/badge/Itch.io-informational?style=flat&logo=itch.io&logoColor=white&color=0D76A8)](https://fatihbicgi.itch.io)
 
 ## Android Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatihBicgi&repo=Bildir&theme=merko)](https://github.com/fatihBicgi/Bildir.git)

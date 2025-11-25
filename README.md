@@ -27,12 +27,6 @@
 ### 🌐 Web Development
 * **[Magazine Website](https://github.com/fatihBicgi/magazine_website)** - Django Web Project
 
-### 🕹️ Older Projects (2018-2021)
-* **[Elemental Calibration](https://github.com/fatihBicgi/elemental-calibration-game)**
-* **[2D Zombie Shooter](https://github.com/fatihBicgi/2d-zombie-shooter)**
-* **[Pandemic Annihilation](https://github.com/fatihBicgi/pandemic-annihilation-game)**
-* **[Diminish or Die](https://github.com/fatihBicgi/diminish-or-die)**
-
 ---
 
 <p align="left"> 
